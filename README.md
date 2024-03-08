@@ -53,5 +53,5 @@ My It journey has led me to develop a passion for cybersecurity, and I am now ea
 </div>
 
 ## Projects
-- <a href="https://github.com/Dmoore125/Vulnerability-Management---Nessus-"> Nessus Lab </a>|
+- <a href="https://github.com/Dmoore125/Vulnerability-Management---Nessus-"> Nessus Lab </a>
 - SOC Autotion Projectma
