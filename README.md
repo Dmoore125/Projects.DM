@@ -1,12 +1,9 @@
 # Hello, I'm Darius 
 <a href="https://linkedin.com/darius-moore-219348265"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 IT professional looking to get into Cyber Secuirty.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My It journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field and land my first Cyber Secuirty Role.
 
