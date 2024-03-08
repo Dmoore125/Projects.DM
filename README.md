@@ -12,7 +12,7 @@ My It journey has led me to develop a passion for cybersecurity, and I am now ea
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| INTRODUCTION TO ACTIVE DIRECTORY    | <a href="https://academy.hackthebox.com/achievement/989221/74">Detection Lab</a>|
+| Vulnerability Management - Nessus   | <a href="">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -53,5 +53,5 @@ My It journey has led me to develop a passion for cybersecurity, and I am now ea
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Vulnerability Management - Nessus 
+- SOC Autotion Projectma
