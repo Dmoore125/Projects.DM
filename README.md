@@ -1,4 +1,4 @@
-# Hello, I'm Darius 
+# Hello, My name is Darius 
 <a href="https://linkedin.com/darius-moore-219348265"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Jr Engineer looking to get into Cyber Secuirty.
