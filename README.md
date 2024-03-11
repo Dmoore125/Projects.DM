@@ -9,6 +9,7 @@ My It journey has led me to develop a passion for cybersecurity, and I am now ea
 - <a href="https://github.com/Dmoore125/Vulnerability-Management---Nessus-">Nessus PROJECT</a>
 - <a href="https://github.com/Dmoore125/SIEM_AZURE_SENTINAL_AND_MAP/tree/main">SIEM PROJECT</a>
 - <a href="https://github.com/Dmoore125/HOMELAB_RUNNING_ACTIVE_DIRECTORY">HOME LAB ACTIVE DIRECTORY PROJECT</a>
+- <a href="https://github.com/Dmoore125/Python_password_generator">Python Password Generator</a>
 
 ## Tools
 </div>
@@ -33,7 +34,6 @@ My It journey has led me to develop a passion for cybersecurity, and I am now ea
 <img src="https://img.shields.io/badge/-CCNA-0077B5?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cyber%20Security-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-
 
 </div>
 
