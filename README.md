@@ -1,5 +1,5 @@
 # Hello, My name is Darius 
-<a href="www.linkedin.com/in/dariusmoore-cs"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dariusmoore-cs/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Jr Engineer looking to get into Cyber Secuirty.
 ## Objective
