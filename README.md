@@ -30,7 +30,7 @@ My It journey has led me to develop a passion for cybersecurity, and I am now ea
 </div>
 
 ## My Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-CCNA-0077B5?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
